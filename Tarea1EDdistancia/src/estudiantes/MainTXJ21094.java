@@ -3,7 +3,7 @@ package estudiantes;
 public class MainTXJ21094 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hola! Soy Pablo López Díaz (TXJ21094@educastur.es)");
 
 	}
 
