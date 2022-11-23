@@ -13,7 +13,13 @@ public class MainXXX {
 		
 		System.out.println("Hola! Soy Luis de Blas, el profesor (luisdbb@educastur.org)");
 		System.out.println("Hola! Soy Luis de Blas, el profesor (luisdbb@educastur.org)");
-
+System.out.println("Hola! Soy Luis de Blas, el profesor (luisdbb@educastur.org)");
+		System.out.println("Hola! Soy Luis de Blas, el profesor (luisdbb@educastur.org)");
+		
+		System.out.println("Hola! Soy Luis de Blas, el profesor (luisdbb@educastur.org)");
+		
+		System.out.println("Hola! Soy Luis de Blas, el profesor (luisdbb@educastur.org)");
+		System.out.println("Hola! Soy Luis de Blas, el profesor (luisdbb@educastur.org)");
 	}
 
 }
