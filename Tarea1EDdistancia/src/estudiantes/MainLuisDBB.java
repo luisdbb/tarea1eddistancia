@@ -12,7 +12,7 @@ public class MainLuisDBB {
 		System.out.println("Hola! Soy Luis de Blas (luisdbb@educastur.org)");
 		System.out.println("Hola! Soy Luis de Blas (luisdbb@educastur.org)");
 		
-		System.out.println(LocalDateTime.now());
+		System.out.println("son las: "+LocalDateTime.now());
 		
 	}
 
